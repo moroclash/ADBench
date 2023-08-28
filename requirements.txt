@@ -3,8 +3,7 @@ rtdl
 scikit-learn
 delu
 lightgbm
-xgboost
-catboost 
+xgboost 
 copulas
 combo
 barbar
